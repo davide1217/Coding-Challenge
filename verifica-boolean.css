@@ -1,0 +1,76 @@
+body {
+  background-image: url(sfondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.page{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 70px;
+  border-radius: 15px;
+}
+
+header{
+  text-align: center;
+}
+
+header > h1{
+  color: lime
+}
+
+header img{
+  height: 150px;
+  margin-top: 3%
+}
+
+.bottons{
+  height: 40px;
+  background-color: lime;
+  width: 80%;
+  margin: auto;
+}
+
+input[type="button"]{
+  margin-top: 12px;
+}
+
+.Monopattino > span{
+  font-family: Arial;
+  font-size: 25px;
+}
+main{
+  color: white;
+}
+
+input[type="checkbox"]{
+  margin: 1%;
+}
+
+.Monopattino{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+#carica1{
+  background-color: orange;
+  width: 30% ;
+  text-align: center;
+  border-radius: 3px;
+}
+
+#carica2{
+  background-color: lime;
+  width: 70% ;
+  text-align: center;
+  border-radius: 3px;
+}
+
+#carica3{
+  background-color: red;
+  width: 10% ;
+  text-align: center;
+  border-radius: 3px;
+}
